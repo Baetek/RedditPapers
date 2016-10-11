@@ -2,8 +2,8 @@
 Auto wallpaper changer sourced by specified subreddits - Written in Python
 
 Now works & supports setting a minimum wallaper resolution.
- 
-Short-term to-do's.
+
+### Short-term to-do's.
  - Add cleanup system for old wallpapers
  - Add IMGUR album support
  - Add i.reddit media support
@@ -13,3 +13,5 @@ Short-term to-do's.
  - Add .exe & installer
  - Add GUI
  
+### Usage
+Install all dependencies and run RedditPapers.py
